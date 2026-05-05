@@ -1,4 +1,4 @@
-# 🍷 Análisis y Preparación de Dataset de Vinos (Machine Learning)
+# Análisis y Preparación de Dataset de Vinos (Machine Learning)
 
 ## Descripción del proyecto
 
