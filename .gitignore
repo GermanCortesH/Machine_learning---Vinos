@@ -1,0 +1,33 @@
+# --- Entornos Virtuales ---
+entorno_vinos/
+include/
+lib/
+share/
+
+# --- Python ---
+# Archivos compilados y caché
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# --- Jupyter Notebooks ---
+# Archivos temporales de checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Archivos de Sistema ---
+# Windows
+Thumbs.db
+desktop.ini
+# macOS
+.DS_Store
+
+# --- IDEs y Editores ---
+# VS Code
+.vscode/
+# PyCharm / IntelliJ
+.idea/
+
+*.csv
